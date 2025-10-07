@@ -12,9 +12,9 @@ git clone
 cd ott_prototype
 
 ## Output
-img1.jpg 
-img2.jpg
-img3.jpg
-img4.jpg
-img5.jpg
+(assets/img1.jpg)
+(assets/img2.jpg)
+(assets/img3.jpg)
+(assets/img4.jpg)
+(assets/img5.jpg)
 
