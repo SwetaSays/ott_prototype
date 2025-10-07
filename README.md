@@ -12,9 +12,16 @@ git clone
 cd ott_prototype
 
 ## Output
-(assets/img1.jpg)
-(assets/img2.jpg)
-(assets/img3.jpg)
-(assets/img4.jpg)
-(assets/img5.jpg)
+<table>
+  <tr>
+    <td><img src="assets/img1.jpg" alt="Screenshot 1" width="200"/></td>
+    <td><img src="assets/img2.jpg" alt="Screenshot 2" width="200"/></td>
+    <td><img src="assets/img3.jpg" alt="Screenshot 3" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/img4.jpg" alt="Screenshot 4" width="200"/></td>
+    <td><img src="assets/img5.jpg" alt="Screenshot 5" width="200"/></td>
+    <td></td>
+  </tr>
+</table>
 
