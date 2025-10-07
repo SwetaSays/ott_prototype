@@ -1,16 +1,20 @@
 # ott_prototype
+A new Flutter project — an OTT-style video streaming prototype.
 
-A new Flutter project.
+## Overview
+This Flutter app displays a carousel of videos with thumbnails, allowing users to tap and play videos using an in-app video player.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To build and run this project locally, follow these steps:
+## 1. Clone the repository
+git clone
+cd ott_prototype
 
-A few resources to get you started if this is your first Flutter project:
+## Output
+img1.jpg 
+img2.jpg
+img3.jpg
+img4.jpg
+img5.jpg
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
